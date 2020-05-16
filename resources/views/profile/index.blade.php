@@ -13,13 +13,13 @@
                                     {{ $post->name }}
                                 </div>
                                 <div class="body">
-                                    {{ $post->gender }}
+                                    性別:  {{ $post->gender }}
                                 </div>
                                 <div class="body">
-                                    {{ $post->hobby }}
+                                    趣味:  {{ $post->hobby }}
                                 </div>
                                 <div class="body">
-                                    {{ $post->introduction }}
+                                    自己紹介:  {{ $post->introduction }}
                                 </div>
                             </div>
                         </div>
